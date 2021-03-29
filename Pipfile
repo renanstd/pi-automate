@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 pyautogui = "*"
 pillow = "*"
+requests = "*"
+python-decouple = "*"
 
 [dev-packages]
 
